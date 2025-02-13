@@ -1,5 +1,9 @@
+<script setup>
+import Layout from '../Layouts/Layout.vue';
+</script>
+
 <template>
-    <div>
+    <Layout>
         <h1>Hello World!</h1>
-    </div>
+    </Layout>
 </template>
